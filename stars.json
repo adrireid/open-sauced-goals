@@ -1,14 +1,20 @@
 [
   {
+    "full_name": "EddieHubCommunity/hacktoberfest-practice",
+    "stargazers_count": 238,
+    "open_issues_count": 29,
+    "forks_count": 958
+  },
+  {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 712,
-    "open_issues_count": 17,
-    "forks_count": 309
+    "stargazers_count": 715,
+    "open_issues_count": 16,
+    "forks_count": 314
   },
   {
     "full_name": "trekhleb/javascript-algorithms",
-    "stargazers_count": 145078,
+    "stargazers_count": 145257,
     "open_issues_count": 266,
-    "forks_count": 24034
+    "forks_count": 24070
   }
 ]
