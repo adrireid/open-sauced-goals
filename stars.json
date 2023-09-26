@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "adrireid/skyline",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "adrireid/portfolio",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "Rjndrkha/Data-Structure_Code-Program",
     "stargazers_count": 290,
     "open_issues_count": 1,
@@ -7,20 +19,20 @@
   },
   {
     "full_name": "EddieHubCommunity/hacktoberfest-practice",
-    "stargazers_count": 506,
-    "open_issues_count": 4,
-    "forks_count": 2376
+    "stargazers_count": 512,
+    "open_issues_count": 8,
+    "forks_count": 2385
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 891,
+    "stargazers_count": 892,
     "open_issues_count": 0,
-    "forks_count": 719
+    "forks_count": 723
   },
   {
     "full_name": "trekhleb/javascript-algorithms",
-    "stargazers_count": 175408,
+    "stargazers_count": 175751,
     "open_issues_count": 340,
-    "forks_count": 28821
+    "forks_count": 28887
   }
 ]
