@@ -1,8 +1,8 @@
 [
   {
     "full_name": "permitio/opal",
-    "stargazers_count": 4141,
-    "open_issues_count": 61,
+    "stargazers_count": 4140,
+    "open_issues_count": 59,
     "forks_count": 153
   },
   {
@@ -13,15 +13,15 @@
   },
   {
     "full_name": "charlax/professional-programming",
-    "stargazers_count": 45968,
+    "stargazers_count": 45983,
     "open_issues_count": 5,
-    "forks_count": 3673
+    "forks_count": 3677
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 394392,
-    "open_issues_count": 263,
-    "forks_count": 36264
+    "stargazers_count": 395135,
+    "open_issues_count": 274,
+    "forks_count": 36340
   },
   {
     "full_name": "adrireid/skyline",
@@ -44,19 +44,19 @@
   {
     "full_name": "EddieHubCommunity/open-source-practice",
     "stargazers_count": 668,
-    "open_issues_count": 10,
+    "open_issues_count": 12,
     "forks_count": 2800
   },
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 926,
     "open_issues_count": 0,
-    "forks_count": 934
+    "forks_count": 938
   },
   {
     "full_name": "trekhleb/javascript-algorithms",
-    "stargazers_count": 185546,
-    "open_issues_count": 343,
-    "forks_count": 29930
+    "stargazers_count": 185612,
+    "open_issues_count": 344,
+    "forks_count": 29935
   }
 ]
