@@ -1,9 +1,9 @@
 [
   {
     "full_name": "ShaeInTheCloud/30days-weather-dashboard",
-    "stargazers_count": 26,
+    "stargazers_count": 27,
     "open_issues_count": 3,
-    "forks_count": 63
+    "forks_count": 64
   },
   {
     "full_name": "LevelUpInTech/ec2-scripts",
@@ -13,8 +13,8 @@
   },
   {
     "full_name": "permitio/opal",
-    "stargazers_count": 5171,
-    "open_issues_count": 70,
+    "stargazers_count": 5175,
+    "open_issues_count": 72,
     "forks_count": 193
   },
   {
@@ -25,15 +25,15 @@
   },
   {
     "full_name": "charlax/professional-programming",
-    "stargazers_count": 47162,
+    "stargazers_count": 47174,
     "open_issues_count": 2,
-    "forks_count": 3743
+    "forks_count": 3742
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 409053,
-    "open_issues_count": 217,
-    "forks_count": 38730
+    "stargazers_count": 409152,
+    "open_issues_count": 248,
+    "forks_count": 38782
   },
   {
     "full_name": "adrireid/skyline",
@@ -49,7 +49,7 @@
   },
   {
     "full_name": "Rjndrkha/Data-Structure_Code-Program",
-    "stargazers_count": 271,
+    "stargazers_count": 270,
     "open_issues_count": 2,
     "forks_count": 393
   },
@@ -63,12 +63,12 @@
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 943,
     "open_issues_count": 0,
-    "forks_count": 1071
+    "forks_count": 1075
   },
   {
     "full_name": "trekhleb/javascript-algorithms",
-    "stargazers_count": 189598,
+    "stargazers_count": 189649,
     "open_issues_count": 358,
-    "forks_count": 30419
+    "forks_count": 30423
   }
 ]
